@@ -16,6 +16,16 @@ Kode ini memproses sebuah file teks dengan langkah-langkah berikut:
 
 ---
 
+## Tujuan
+
+Proyek ini bertujuan untuk:
+1. Mengimplementasikan algoritma Word Count secara sederhana menggunakan bahasa pemrograman C.
+2. Menunjukkan proses dasar pemrosesan teks, seperti normalisasi teks (menjadi huruf kecil) dan pembersihan tanda baca.
+3. Menghitung frekuensi kemunculan kata dalam sebuah teks.
+4. Implementasi pengurutan data berdasarkan nilai frekuensi.
+
+---
+
 ## Struktur File
 
 - `comment_sample.txt` : File input contoh berisi komentar atau teks bebas.
