@@ -14,7 +14,7 @@ Kode ini memproses sebuah file teks dengan langkah-langkah berikut:
 2. **Sorting**:
    Mengurutkan daftar kata berdasarkan frekuensi kemunculan dari yang paling sering hingga yang paling jarang. Proses pengurutan ini penting untuk membantu mengidentifikasi kata-kata yang paling dominan dalam teks.
 
-2. **Counting Words**:  
+3. **Counting Words**:  
    Membaca file `cleaned.txt`, menghitung frekuensi kemunculan setiap kata, dan menyimpan hasil hitung kata yang sudah diurutkan dari frekuensi terbesar ke terkecil ke dalam file `result.txt`.
 
 ---
